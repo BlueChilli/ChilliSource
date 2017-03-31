@@ -1,4 +1,4 @@
-# Codin style for ChilliSource .NET frameworks #
+# Coding style for ChilliSource .NET frameworks #
 
 ## Naming Guidelines ##
 
