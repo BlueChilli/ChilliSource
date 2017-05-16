@@ -4,6 +4,10 @@
 
 ChilliSource is a developer framework created by [BlueChilli](https://github.com/BlueChilli) consisting of UI controls, wrappers for common integration points, tools, and extensions, to facilitate the rapid development of web, cloud, and mobile applications.
 
+### Installation ###
+
+All libraries are available via NuGet [here](https://www.nuget.org/profiles/bluechilli).
+
 ### Contribution ###
 
 Please see the [Contribution Guide](CONTRIBUTING.md).
